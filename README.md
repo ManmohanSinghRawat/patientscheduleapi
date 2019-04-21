@@ -12,7 +12,7 @@ Swagger
   http://localhost:8080/swagger-ui.html
   to see all the function for add , delete , retrive etc.
   
-I doesn't use any test cases by Swagger useful to test the proper working of api.
+I doesn't use any test cases, but Swagger is quite useful to test the proper working of api.
 
 Logging
    I have use basic logging with ERROR level at root.
